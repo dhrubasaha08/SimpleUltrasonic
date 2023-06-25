@@ -1,4 +1,4 @@
-#include "SimpleUltrasonic.h"
+#include <SimpleUltrasonic.h>
 
 // Create an instance of the SimpleUltrasonic class and set the trigger and echo pins.
 SimpleUltrasonic sensor(2, 3);
